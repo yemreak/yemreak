@@ -1,1 +1,1 @@
-Gerçek uzmanlık; doğru olanı düşünmeden (hızlıca) ve bunu insanlara aktarabilecek kadar farkındalıkla yapmabilmektir.
+True expertise is the ability to do the right thing **instantly, without thinking**—and with enough awareness to **explain it to others**.

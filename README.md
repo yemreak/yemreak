@@ -32,38 +32,3 @@ No caffeine • No manual coding • No 9-5
 
 Same frequency? → ping me
 ```
-
-## Turkce
-
-```
-╔══ KOD YAZMA RİTÜELLERİM ══╗
-
-├─ AI'a kod yazdırırım (ben yazmam)
-├─ Claude/Cursor = gerçek developer
-├─ Scriptler & otomasyonlar = dopamin
-├─ Bot yazmak = meditasyon
-├─ HER ŞEYİN formülünü ararım
-├─ İnsan davranışlarını bile formülize ederim
-├─ Framework/pattern/denklem düşünürüm
-├─ Vanilla kod, ağır kütüphaneler değil
-├─ Spontane yaşarım - plan yok
-├─ İlham gelince → aksiyona geçerim
-├─ Merak = en iyi öğrenme yöntemi
-├─ Karanlık + sessizlik = flow state
-├─ 7 saat sprint → tam dur → tekrar
-├─ Ayakta/yürüyerek çalışırım
-├─ Kendi kendime konuşarak çözüm bulurum
-├─ Claude'a anlatarak debug yaparım
-├─ Mikro mimiklere takıntılıyım
-╚═ AI orchestration = şu anki takıntım
-
-━━━━━━━━━━━━━━━━━
-※ Her şeyin framework'ünü ararım
-※ Müzik = pattern tanıma yakıtı
-※ AI = eller, ben = beyin
-※ Her şeyi otomatize ederim
-
-Kafein yok • Manuel kod yok • 9-5 yok
-
-Aynı frekanstaysan → yaz
-```

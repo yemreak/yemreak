@@ -22,7 +22,7 @@ True expertise is the ability to do the right thing **instantly, without thinkin
 ├─ Solving by talking to myself
 ├─ Debugging by explaining to Claude
 ├─ Obsessed with micro expressions
-╚═ AI orchestration = current obsession
+╚═ AI capabilities = current obsession
 
 ━━━━━━━━━━━━━━━━━
 ※ I seek the framework of everything
@@ -32,5 +32,5 @@ True expertise is the ability to do the right thing **instantly, without thinkin
 
 No caffeine • No manual coding • No 9-5
 
-Same frequency? → ping me
+Same frequency? → show urself (:
 ```

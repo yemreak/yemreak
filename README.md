@@ -4,33 +4,19 @@ True expertise is the ability to do the right thing **instantly, without thinkin
 
 ## English Version
 
-```
-╔══ MY CODING RITUALS ══╗
+AI writes all my code. I just architect & automate.
 
-├─ AI writes code (I don't)
-├─ Claude/Cursor = real developer
-├─ Scripts & automations = dopamine
-├─ Building bots = meditation
-├─ I search for formulas in EVERYTHING
-├─ I formulate even human behavior
-├─ Framework/pattern/equation thinking
-├─ Vanilla code, no heavy libraries
-├─ Night owl
-├─ Darkness + silence = flow state
-├─ 7 hour sprint → full stop → repeat
-├─ Standing/walking while working
-├─ Solving by talking to myself
-├─ Debugging by explaining to Claude
-├─ Obsessed with micro expressions
-╚═ AI capabilities = current obsession
+Speed freak. 7-hour sprint → dead stop → repeat.
+Reactive not planned. Idea hits → build immediately.
+Standing/walking/talking to myself while working.
+Pattern recognition in everything (code, humans, systems).
+Vanilla only. No heavy frameworks.
 
-━━━━━━━━━━━━━━━━━
-※ I seek the framework of everything
-※ Music = pattern recognition fuel
-※ AI = hands, I = brain
-※ I automate everything
+Night work. Darkness + silence = flow.
+Debugging = explaining to Claude out loud.
+Micro-expressions obsessed.
 
-No caffeine • No manual coding • No 9-5
+Own time. Own rules. Build whatever whenever.
+no 9-5. no caffeine. no manual coding.
 
-Same frequency? → show urself (:
-```
+spontaneous coworking? istanbul. same tempo? reach me.

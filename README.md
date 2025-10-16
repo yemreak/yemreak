@@ -4,6 +4,8 @@ True expertise is the ability to do the right thing **instantly, without thinkin
 
 ---
 
+## English Version
+
 AI writes all my code. I just architect & automate.
 
     Speed freak. 7-hour sprint → dead stop → repeat.
@@ -23,4 +25,5 @@ Vanilla only. No heavy frameworks.
 
 ---
 
-spontaneous coworking? istanbul. same tempo? reach me.
+same tempo? istanbul? spontaneous?
+- [Instagram @yemreak\_dev](https://www.instagram.com/yemreak\_dev)

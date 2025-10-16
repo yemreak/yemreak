@@ -4,8 +4,6 @@ True expertise is the ability to do the right thing **instantly, without thinkin
 
 ---
 
-## English Version
-
 AI writes all my code. I just architect & automate.
 
     Speed freak. 7-hour sprint → dead stop → repeat.

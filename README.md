@@ -4,26 +4,23 @@ True expertise is the ability to do the right thing **instantly, without thinkin
 
 ---
 
-## English Version
+# Yunus Emre Ak \~ yemreak
 
-AI writes all my code. I just architect & automate.
+In 2020, I built a crypto arbitrage bot with $450. While showing my mom how Mario's coin sound played for profit notifications, the system started working. First year I became financially free, tested on 20+ exchanges, working on a few.
 
-    Speed freak. 7-hour sprint → dead stop → repeat.
-    Reactive not planned. Idea hits → build immediately.
-    Standing/walking/talking to myself while working.
+Then I tried manual trading - lost half of it. Everything fell apart when emotions kicked in. Since then, my sole focus: formulate emotions, turn them into systems.
 
-Pattern recognition in everything (code, humans, systems).
+For 6 years, I've been accumulating thought systems I gained while talking and working 8+ hours daily - first with blog and notes, then with ChatGPT/Claude. I converted my voice to text with Whisper, learned English in my own voice with Voice Clone. Since childhood puzzles, elementary school math formulas, high school trigonometry - I've always had a formula obsession.
 
-    Night work. Darkness + silence = flow.
-    Debugging = explaining to Claude out loud.
-    Micro-expressions obsessed.
+Now I understand human behavior from AI behavior. I realized while having Claude Code write code with my voice - it's just like us, acts according to what it's exposed to, not what it's told. I'm building principles like zero documentation principle: don't explain, live the culture; don't teach everything, let it learn on the way (hook).
 
-Vanilla only. No heavy frameworks.
+I built 30+ CLI tools but never monetized any. My goal isn't money, it's to eliminate friction between thought and code. I have a speed obsession - sometimes I do 7-hour sprints, can't stop myself. I work reactively and unplanned, if an idea comes I do it immediately.
 
-    Own time. Own rules. Build whatever whenever.
-    no 9-5. no caffeine. no manual coding.
+My dream is simple: Talk/work with AIs in my dark room at night, design systems, and learn to control my own behaviors and thinking patterns in the design process. If I can control AI's behaviors, I can control my own behaviors with the thought systems I've accumulated over 6 years.
 
----
+_nothing missing, nothing extra.._
 
-same tempo? istanbul? spontaneous?
-- [Instagram @yemreak\_dev](https://www.instagram.com/yemreak\_dev)
+***
+
+* Instagram: [@yemreak\_dev](https://www.instagram.com/yemreak_dev)
+* GitHub: [@yemreak](https://github.com/yemreak)

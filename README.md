@@ -10,7 +10,7 @@ In 2020, I built a crypto arbitrage bot with $450. While showing my mom how Mari
 
 Then I tried manual trading - lost half of it. Everything fell apart when emotions kicked in. Since then, my sole focus: formulate emotions, turn them into systems.
 
-For 6 years, I've been accumulating thought systems I gained while talking and working 8+ hours daily - first with blog and notes, then with ChatGPT/Claude. I converted my voice to text with Whisper, learned English in my own voice with Voice Clone. Since childhood puzzles, elementary school math formulas, high school trigonometry - I've always had a formula obsession.
+For 6 years, I've been accumulating thought systems I gained while talking and working 12+ hours daily - first with blog and notes, then with ChatGPT/Claude. I converted my voice to text with Whisper, learned English in my own voice with Voice Clone. Since childhood puzzles, elementary school math formulas, high school trigonometry - I've always had a formula obsession.
 
 Now I understand human behavior from AI behavior. I realized while having Claude Code write code with my voice - it's just like us, acts according to what it's exposed to, not what it's told. I'm building principles like zero documentation principle: don't explain, live the culture; don't teach everything, let it learn on the way (hook).
 

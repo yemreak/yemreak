@@ -24,4 +24,4 @@ _nothing missing, nothing extra.._
 
 * Instagram: [@yemreak\_dev](https://www.instagram.com/yemreak_dev)
 * GitHub: [@yemreak](https://github.com/yemreak)
-* Gumroad: [yemreka](https://yemreak.gumroad.com/)
+* Gumroad: [yemreak](https://yemreak.gumroad.com/)

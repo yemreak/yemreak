@@ -6,6 +6,8 @@ True expertise is the ability to do the right thing **instantly, without thinkin
 
 # Yunus Emre Ak \~ yemreak
 
+> Something comes — idea, feeling, insight — and goes. What I don't understand feels like it never happened. I build systems not to prevent loss, but to find it again.
+
 In 2020, I built a crypto arbitrage bot with $450. While showing my mom how Mario's coin sound played for profit notifications, the system started working. First year I became financially free, tested on 20+ exchanges, working on a few.
 
 Then I tried manual trading - lost half of it. Everything fell apart when emotions kicked in. Since then, my sole focus: formulate emotions, turn them into systems.
